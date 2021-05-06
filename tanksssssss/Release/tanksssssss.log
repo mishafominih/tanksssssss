@@ -1,0 +1,553 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\tanksssssss\tanksssssss\menu.h(23,20): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(94,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(94,41): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(94,37): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(94,33): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(116,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(116,41): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(116,37): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(116,33): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(120,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(121,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(122,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(123,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(134,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(135,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(145,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(153,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(163,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(171,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(177,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(186,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(190,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(205,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(214,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(226,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(235,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(239,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(246,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(255,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(268,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(274,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(280,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(286,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(294,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(300,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(306,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(321,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(327,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(333,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(347,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(353,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(359,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(365,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(376,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(384,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(394,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(402,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(412,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(420,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(430,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(438,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(448,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(456,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(466,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(474,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(511,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(511,41): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(511,37): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(511,33): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(545,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(546,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(551,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(553,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(555,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(557,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(569,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(577,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(587,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(595,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(601,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(610,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(614,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(629,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(638,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(650,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(659,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(663,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(670,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(679,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(692,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(698,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(704,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(710,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(718,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(724,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(730,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(745,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(751,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(757,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(771,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(777,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(783,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(789,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(800,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(808,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(818,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(826,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(836,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(844,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(854,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(862,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(872,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(880,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(890,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(898,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(985,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(985,41): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(985,37): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(985,33): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(992,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(993,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1024,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1025,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1033,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1034,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1042,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1043,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1060,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1061,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1079,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1080,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1091,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1092,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1101,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1102,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1119,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1120,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1138,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1139,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1161,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1162,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1178,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1179,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1184,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1185,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1193,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1194,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1202,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1203,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1239,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1240,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1247,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1248,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1256,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1257,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1277,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1278,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1293,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1294,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1313,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1314,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1329,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1330,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1348,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1349,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1364,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1365,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1384,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1385,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1400,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1401,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1409,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1410,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1428,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1429,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1437,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1438,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1446,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1447,12): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1478,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1490,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1502,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1514,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1547,26): warning C4305: +=: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1557,26): warning C4305: -=: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1566,26): warning C4305: +=: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1576,26): warning C4305: -=: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1593,27): warning C4305: +=: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1603,27): warning C4305: -=: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1612,27): warning C4305: +=: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1622,27): warning C4305: -=: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1638,43): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1641,46): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1647,46): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1650,46): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1656,46): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1659,46): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1665,46): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1668,46): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1683,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1694,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1708,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1719,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1772,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1773,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1802,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1803,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1817,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1817,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1819,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1819,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1821,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1821,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1823,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1823,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1825,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1825,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1827,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1827,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1834,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1834,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1836,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1836,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1838,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1838,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1840,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1840,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1842,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1842,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1844,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1844,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1851,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1851,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1853,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1853,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1855,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1855,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1857,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1857,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1859,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1859,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1861,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1861,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1871,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1871,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1873,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1873,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1875,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1875,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1877,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1877,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1879,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1879,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1881,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1881,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1888,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1888,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1890,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1890,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1892,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1892,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1894,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1894,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1896,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1896,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1898,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1898,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1905,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1905,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1907,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1907,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1909,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1909,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1911,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1911,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1913,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1913,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1915,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1915,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1929,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1930,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1958,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1959,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1973,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1973,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1975,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1975,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1977,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1977,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1979,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1979,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1981,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1981,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1983,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1983,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1990,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1990,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1992,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1992,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1994,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1994,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1996,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1996,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1998,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(1998,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2000,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2000,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2007,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2007,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2009,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2009,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2011,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2011,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2013,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2013,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2015,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2015,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2017,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2017,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2027,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2027,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2029,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2029,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2031,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2031,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2033,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2033,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2035,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2035,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2037,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2037,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2044,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2044,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2046,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2046,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2048,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2048,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2050,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2050,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2052,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2052,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2054,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2054,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2061,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2061,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2063,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2063,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2065,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2065,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2067,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2067,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2069,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2069,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2071,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2071,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2089,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2090,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2105,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2106,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2125,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2126,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2161,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2162,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2378,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2379,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2383,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2384,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2388,54): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2388,79): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2389,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2394,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2395,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2399,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2400,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2405,54): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2405,79): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2406,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2411,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2412,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2416,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2417,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2421,54): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2421,79): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2422,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2427,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2428,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2432,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2433,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2437,54): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2437,79): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2438,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2446,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2447,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2451,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2452,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2456,54): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2456,79): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2457,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2462,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2463,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2467,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2468,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2473,54): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2473,79): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2474,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2479,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2480,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2484,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2485,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2489,54): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2489,79): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2490,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2495,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2496,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2500,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2501,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2505,54): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2505,79): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2506,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2518,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2526,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2534,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2543,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2548,39): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2548,64): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2557,26): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2569,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2581,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2660,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2799,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2802,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2835,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2906,38): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2907,36): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2913,38): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2914,36): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2920,38): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2921,36): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2928,38): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2929,36): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2940,39): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2941,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2947,39): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2948,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2954,39): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2955,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2962,39): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(2963,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(3114,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(3114,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4322,25): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4408,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4496,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4586,107): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4586,99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4587,107): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4587,99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4588,106): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4588,98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4589,111): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4589,98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4590,107): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4590,99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4591,108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4591,100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4592,107): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4592,99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4593,108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4593,100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4594,108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4594,100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4595,108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4595,100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4596,108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4596,100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4597,107): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4597,99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4598,108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4598,100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4599,108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4599,100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4600,109): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4600,101): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4601,109): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4601,101): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4602,109): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4602,101): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4603,109): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4603,101): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4640,108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4640,100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+C:\Users\user\source\repos\tanksssssss\tanksssssss\game.h(4727): warning C4715: startgame: значение возвращается не при всех путях выполнения
+  25 of 551 functions ( 4.5%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  tanksssssss.vcxproj -> C:\Users\user\source\repos\tanksssssss\Release\tanksssssss.exe

@@ -1,0 +1,260 @@
+﻿  Source.cpp
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(84): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(102): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(103): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(113): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(121): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(131): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(139): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(145): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(154): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(158): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(173): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(182): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(194): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(203): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(207): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(214): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(223): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(236): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(242): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(248): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(254): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(262): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(268): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(274): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(289): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(295): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(301): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(315): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(321): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(327): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(333): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(344): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(352): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(362): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(370): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(404): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(437): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(438): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(443): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(445): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(447): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(449): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(461): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(469): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(479): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(487): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(493): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(502): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(506): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(521): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(530): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(542): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(551): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(555): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(562): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(571): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(584): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(590): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(596): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(602): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(610): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(616): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(622): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(637): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(643): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(649): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(663): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(669): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(675): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(681): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(692): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(700): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(710): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(718): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(753): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(759): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(760): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(787): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(788): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(796): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(797): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(805): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(806): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(815): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(816): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(826): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(827): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(841): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(842): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(851): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(852): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(861): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(862): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(872): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(873): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(891): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(892): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(900): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(901): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(906): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(907): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(915): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(916): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(924): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(925): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(948): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(949): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(956): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(957): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(965): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(966): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(989): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(990): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1005): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1006): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1028): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1029): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1044): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1045): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1066): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1067): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1082): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1083): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1105): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1106): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1121): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1122): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1133): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1134): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1148): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1149): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1165): warning C4305: +=: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1177): warning C4305: +=: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1189): warning C4305: +=: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1201): warning C4305: +=: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1229): warning C4305: +=: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1238): warning C4305: -=: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1246): warning C4305: +=: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1255): warning C4305: -=: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1269): warning C4305: +=: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1277): warning C4305: -=: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1286): warning C4305: +=: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1295): warning C4305: -=: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1312): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1323): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1336): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1347): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1367): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1368): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1392): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1393): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1405): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1407): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1409): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1411): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1413): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1415): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1422): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1424): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1426): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1428): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1430): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1432): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1439): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1441): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1443): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1445): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1447): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1449): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1460): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1461): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1492): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1493): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1564): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1565): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1569): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1570): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1574): warning C4305: =: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1575): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1580): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1581): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1585): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1586): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1591): warning C4305: =: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1592): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1597): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1598): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1602): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1603): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1607): warning C4305: =: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1608): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1613): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1614): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1618): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1619): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1623): warning C4305: =: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1624): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1632): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1633): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1637): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1638): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1642): warning C4305: =: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1643): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1648): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1649): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1653): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1654): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1659): warning C4305: =: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1660): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1665): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1666): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1670): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1671): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1675): warning C4305: =: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1676): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1681): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1682): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1686): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1687): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1691): warning C4305: =: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1692): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1706): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1714): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1722): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1731): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1736): warning C4305: =: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1745): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1757): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1769): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1797): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1857): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1860): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1880): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1944): warning C4305: =: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1945): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1951): warning C4305: =: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1952): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1958): warning C4305: =: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1959): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1966): warning C4305: =: усечение из "double" в "float"
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(1967): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2046): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2199): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2200): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2201): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2202): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2203): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2204): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2205): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2206): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2207): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2208): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2209): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2210): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2211): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2212): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\tanksssssss\tanksssssss\source.cpp(2245): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  tanksssssss.vcxproj -> C:\Users\Пользователь\source\repos\tanksssssss\Debug\tanksssssss.exe
